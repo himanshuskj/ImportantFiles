@@ -5,6 +5,7 @@ public class BusinessException extends Exception {
 	public BusinessException() {
 		super();
 		// TODO Auto-generated constructor stub
+		//adding a comment from github
 	}
 
 	public BusinessException(final String arg0) {
